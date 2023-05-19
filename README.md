@@ -1,2 +1,2 @@
-# Udemy-Web-Dev
+# Personal-website
 Projects from the Udemy Web Development Course
